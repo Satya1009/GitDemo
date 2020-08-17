@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-08T21:31:58 IST" name="Default suite" finished-at="2020-08-08T21:31:58 IST" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2020-08-08T21:31:58 IST" name="Default test" finished-at="2020-08-08T21:31:58 IST" duration-ms="56">
+      <class name="test.TestNgTest">
+        <test-method signature="abc()[pri:0, instance:test.TestNgTest@27c86f2d]" started-at="2020-08-08T21:31:58 IST" name="abc" finished-at="2020-08-08T21:31:58 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- test.TestNgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
